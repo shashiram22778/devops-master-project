@@ -1,6 +1,6 @@
 # DevOps Master Project
 
-This repository contains my complete DevOps learning journey and enterprise project.
+This repository contains my DevOps interview preparation project.
 
 ## Login Feature
 
