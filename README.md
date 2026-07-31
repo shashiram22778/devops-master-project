@@ -25,3 +25,7 @@ Kubernetes manages containerized applications.
 ## Terraform
 
 Terraform provisions infrastructure as code.
+
+## Jenkins
+
+Jenkins automates CI/CD pipelines.
