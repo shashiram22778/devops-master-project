@@ -14,6 +14,7 @@ This project demonstrates a complete CI/CD pipeline.
 
 Implemented payment gateway integration.
 
+
 ## Docker
 
 Docker packages applications into portable containers.
@@ -29,3 +30,4 @@ Terraform provisions infrastructure as code.
 ## Jenkins
 
 Jenkins automates CI/CD pipelines.
+
