@@ -4,3 +4,7 @@ This repository contains my complete DevOps interview preparation and enterprise
 ## Login Feature
 
 Implemented login functionality.
+
+## CI/CD Pipeline
+
+This project demonstrates a complete CI/CD pipeline.
